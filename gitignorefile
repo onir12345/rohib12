@@ -1,0 +1,9 @@
+provider"aws"{ 
+               access_key="bvrfnvfjbhgurhernjkff"
+               secret_key="vnfbbhthjgh"
+               region="us-west-2"
+              }
+resources"aws_instances""shumailinstances"{
+                                            ami="bdjgh"
+                                            instance_type="t2.micro"
+                                           }
